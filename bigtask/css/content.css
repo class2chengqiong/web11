@@ -1,0 +1,17 @@
+.content{width:1000px;margin:10px auto;}
+.content .lefter{width:700px;margin:10px;float:left;}
+.content .righter{width:250px;margin:10px;float:right;}
+.content .lefter p{text-indent: 2em;font-size:14px;line-height:26px;font-weight:400;font-family: '微软雅黑'}
+.content .lefter h1{margin:20px 0px;}
+.content .lefter .mian{font-size: 18px;font-family:'微软雅黑';}
+.content .lefter hr{margin:10px 0px;}
+.content .lefter img{width:700px;}
+.content .lefter h2{margin:20px;}
+.content .lefter h5{color:#aaa;}
+
+.content .lefter .tijiao{width:100px;display: block;}
+
+
+.content .righter .first{width:250px;margin:20px 0px;}
+.content .righter .second{width:250px;margin:20px 0px;}
+.content .righter .third{width:220px;margin:20px 0px;}

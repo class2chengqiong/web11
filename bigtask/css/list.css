@@ -1,0 +1,24 @@
+body{font-weight: 600;}
+.content{width:1000px;margin:0px auto;}
+.content .lefter{width:200px;float:left;}
+.content .centerer{width:520px;margin:10px;float:left;}
+.content .righter{width:260px;float:left;}
+.content .lefter h2{text-align: center;margin-bottom: 10px;}
+.content .lefter .first{margin:10px 10px 20px;}
+.content .lefter img{width:180px;height:120px;}
+.content .centerer .mian{font-size: 18px;}
+.content .centerer .time{color:#ccc;margin-top:0px;}
+.content .centerer .bigpic{width:520px;margin-top:10px;margin-bottom: 20px;}
+.content .centerer li{list-style: none;display: block;line-height: 40px;font-size:18px;}
+.content .centerer .shuzi{color:#ccc;}
+.content .centerer .middle img{width:120px;height:80px;padding:10px 10px 10px 0px;float:left;}
+.content .centerer .mid{font-size:16px;font-family:'黑体';font-weight:bold;float:left;display:block;padding:10px;}
+.content .xi:hover{background-color:#eee;}
+.content .title{font-size: 22px;width:100px;height:40px;line-height: 40px;background-color: #66b3ff;
+	color:#444;text-align: center;margin:20px 10px 0px 10px;}
+.content .centerer .fenye{font-size: 18px;} 
+.content .righter .one{margin-top: 30px;margin-left: 10px;width:250px;}
+.content .righter .two{width:240px;padding:10px 0px 10px 20px;}
+.content .righter span{color:#66b3ff;font-size: 20px;padding-left:20px;}
+.content .righter h3{text-align: center;padding-left:10px;font-size: 14px;}
+.content .righter hr{margin:40px 0px 15px 10px;}
